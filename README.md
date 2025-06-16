@@ -16,13 +16,4 @@ Each file in this repository covers one topic with simple explanations and examp
 - Shell Scripting  
 - Utility Commands
 
-## Who is this for?
-
-- Beginners who want to learn Linux  
-- Students preparing for DevOps or SRE roles  
-- Anyone working with Linux servers
-
-## Author
-
-Shellesty Yalla
-
+Use this repo as a quick reference while working on Linux.
