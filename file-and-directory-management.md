@@ -1,4 +1,5 @@
 This section explains basic Linux commands used to work with files and folders.
+
 🔹 ls
 
 Shows files and folders in the current folder.
